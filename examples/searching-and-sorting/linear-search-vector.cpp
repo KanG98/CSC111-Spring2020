@@ -15,7 +15,6 @@ int main(){
   cout << "The position for wolf is: ";
   cout << linear_search("wolf", zoo) << endl;
   cout << endl;
-dfs
   cout << "The position for duck is: ";
   //cout << linear_search("duck", zoo, ZOO_CAPACITY) << endl;
   cout << linear_search("duck", zoo) << endl;
